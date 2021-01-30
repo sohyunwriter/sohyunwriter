@@ -6,11 +6,12 @@
 
 - 🌱 I’m currently interested in **NLP** and **Basic AI Concepts for field work**.      
 
-- 👯 I've studied with those who work in AI field. Feel free to join our study group for anyone who are willing to study AI in depth.      
+- 👯 I've studied with those who work in AI field. Feel free to join our study group for anyone who are willing to study AI in depth.   
+
+- 📝 I regularly write articles on [blog](https://sohyunwriter.tistory.com/)     
 
 <!--
 **sohyunwriter/sohyunwriter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-- 📝 I regularly write articles on [blog](https://sohyunwriter.tistory.com/)
 -->
 
 - 💬 Ask me about **AI, Big Data Engineering, Business Data Analysis, Visualization.**
