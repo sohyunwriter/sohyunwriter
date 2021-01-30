@@ -8,7 +8,7 @@
 
 - 👯 I've studied with those who work in AI field. Feel free to join our study group for anyone who are willing to study AI in depth.   
 
-- 📝 I regularly write articles on [blog](https://sohyunwriter.tistory.com/)     
+- 📝 I regularly write articles on [Blog](https://sohyunwriter.tistory.com/)     
 
 <!--
 **sohyunwriter/sohyunwriter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
