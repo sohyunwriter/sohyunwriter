@@ -2,7 +2,8 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=sohyunwriter&show_icons=true&locale=en" alt="sohyunwriter" /></p>
 
-- 🔭 I've done 7 ML/DL model implementation, 3 data hackathons, 2 internship experience on Data Analysis. Now I'm working as a Data Scientist at Hyundai Card.     
+- 🔭 I've done 7 ML/DL model implementation, 3 data hackathons, 2 internship experience on Data Analysis.     
+     Now I'm working as a Data Scientist at Hyundai Card.     
 
 - 🌱 I’m currently interested in **NLP** and **Basic AI Concepts for field work**.      
 
