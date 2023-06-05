@@ -25,7 +25,7 @@
 
 - 👯 I like to study with other people and have a technical conversation with other people.
 
-- 💬 Ask me about **Predictive Modeling, Language Model, Writing AI Project Proposals, API development**
+- 💬 Ask me about **Predictive Modeling, Language Model, Writing AI Project Proposals/Reports, API development**
 
 - 📫 How to reach me **brightcattle@gmail.com** Feel free to ask me anything.
 
