@@ -7,7 +7,7 @@
 
 - 🔭 I'm working as a **Data Scientist at Hyundai Card**.     
 
-- 📄 Want to know about my experiences [resume](https://www.notion.so/AI-Engineer-2105636eb67d4fcdafc79bf9d4c49a25)
+- 📄 Want to know about my experiences [linkedin](https://www.linkedin.com/in/sohyunwriter/)
 
 - 🌱 My main focus is on analyzing **tabular data**, such as fruad detection and overdue customer prediction. 
 
