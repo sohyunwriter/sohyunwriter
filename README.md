@@ -4,11 +4,14 @@
 <!--
 - 🔭 I've done 7 ML/DL model implementation, 3 data hackathons, 2 internship experience on Data Analysis.     
 -->
+
 - 🔭 I'm working as a **Data Scientist at Hyundai Card**.     
 
 - 📄 Want to know about my experiences [resume](https://www.notion.so/AI-Engineer-2105636eb67d4fcdafc79bf9d4c49a25)
 
-- 🌱 My main focus is on analyzing tabular data, such as fruad detection and overdue customer prediction. I’m also interested in **NLP** and **MLOps**.      
+- 🌱 My main focus is on analyzing **tabular data**, such as fruad detection and overdue customer prediction. 
+
+- 🌱 I’m also interested in **NLP** and **MLOps**.      
 
 <!--
 - 👯 I've studied with those who work in AI field. Feel free to join our study group for anyone who are willing to study AI in depth.   
@@ -20,9 +23,9 @@
 **sohyunwriter/sohyunwriter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<!--
-- 💬 Ask me about **AI, Big Data Engineering, Business Data Analysis, Visualization.**
--->
+- 👯 I like to study with other people and have a technical conversation with other people.
+
+- 💬 Ask me about **Predictive Modeling, Language Model, Writing AI Project Proposals, API development**
 
 - 📫 How to reach me **brightcattle@gmail.com** Feel free to ask me anything.
 
