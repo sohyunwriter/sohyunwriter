@@ -1,13 +1,18 @@
 <h3>sohyunwriter 👋</h3>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=sohyunwriter&show_icons=true&locale=en" alt="sohyunwriter" /></p>
-
+<!--
 - 🔭 I've done 7 ML/DL model implementation, 3 data hackathons, 2 internship experience on Data Analysis.     
-- 🔭 Now I'm working as a **Data Scientist at Hyundai Card**.     
+-->
+- 🔭 I'm working as a **Data Scientist at Hyundai Card**.     
 
-- 🌱 I’m currently interested in **NLP** and **Basic AI Concepts for field work**.      
+- 📄 Want to know about my experiences [resume](https://www.notion.so/AI-Engineer-2105636eb67d4fcdafc79bf9d4c49a25)
 
+- 🌱 My main focus is on analyzing tabular data, such as fruad detection and overdue customer prediction. I’m also interested in **NLP** and **MLOps**.      
+
+<!--
 - 👯 I've studied with those who work in AI field. Feel free to join our study group for anyone who are willing to study AI in depth.   
+-->
 
 - 📝 I regularly write articles on [Blog](https://sohyunwriter.tistory.com/)     
 
@@ -15,11 +20,11 @@
 **sohyunwriter/sohyunwriter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
+<!--
 - 💬 Ask me about **AI, Big Data Engineering, Business Data Analysis, Visualization.**
+-->
 
-- 📫 How to reach me **brightcattle@gmail.com**
-
-- 📄 Know about my experiences [resume](https://www.notion.so/AI-Engineer-2105636eb67d4fcdafc79bf9d4c49a25)
+- 📫 How to reach me **brightcattle@gmail.com** Feel free to ask me anything.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
