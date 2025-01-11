@@ -31,7 +31,7 @@
 - 💬 Ask me about **Predictive Modeling, Language Model, Writing AI Project Proposals/Reports, API development**
 -->
 
-- 📩 Reach me at ** brightcattle@gmail.com ** – always open to questions and discussions!
+- 📩 Reach me at brightcattle@gmail.com – always open to questions and discussions!
 
 <!--
 <h3 align="left">Connect with me:</h3> 
