@@ -66,11 +66,6 @@
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sohyunwriter&show_icons=true&locale=en&layout=compact" alt="sohyunwriter" height="150"/>
     </td>
-    <td>
-      <a href="https://solved.ac/sslove">
-        <img src="http://mazassumnida.wtf/api/generate_badge?boj=sslove" alt="sohyeon" height="150"/>
-      </a>
-    </td>
   </tr>
 </table>
 
